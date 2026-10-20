@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\crudexemplo\crudexemplo\bin\Debug\net10.0-windows\crudexemplo.exe
+C:\Users\Aluno\source\repos\crudexemplo\crudexemplo\bin\Debug\net10.0-windows\crudexemplo.deps.json
+C:\Users\Aluno\source\repos\crudexemplo\crudexemplo\bin\Debug\net10.0-windows\crudexemplo.runtimeconfig.json
+C:\Users\Aluno\source\repos\crudexemplo\crudexemplo\bin\Debug\net10.0-windows\crudexemplo.dll
+C:\Users\Aluno\source\repos\crudexemplo\crudexemplo\bin\Debug\net10.0-windows\crudexemplo.pdb
+C:\Users\Aluno\source\repos\crudexemplo\crudexemplo\obj\Debug\net10.0-windows\crudexemplo.Form1.resources
+C:\Users\Aluno\source\repos\crudexemplo\crudexemplo\obj\Debug\net10.0-windows\crudexemplo.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\crudexemplo\crudexemplo\obj\Debug\net10.0-windows\crudexemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\crudexemplo\crudexemplo\obj\Debug\net10.0-windows\crudexemplo.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\crudexemplo\crudexemplo\obj\Debug\net10.0-windows\crudexemplo.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\crudexemplo\crudexemplo\obj\Debug\net10.0-windows\crudexemplo.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\crudexemplo\crudexemplo\obj\Debug\net10.0-windows\crudexemplo.dll
+C:\Users\Aluno\source\repos\crudexemplo\crudexemplo\obj\Debug\net10.0-windows\refint\crudexemplo.dll
+C:\Users\Aluno\source\repos\crudexemplo\crudexemplo\obj\Debug\net10.0-windows\crudexemplo.pdb
+C:\Users\Aluno\source\repos\crudexemplo\crudexemplo\obj\Debug\net10.0-windows\crudexemplo.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\crudexemplo\crudexemplo\obj\Debug\net10.0-windows\ref\crudexemplo.dll
+C:\Users\Aluno\source\repos\crudexemplo\crudexemplo\obj\Debug\net10.0-windows\crudexem.8DF1E6ED.Up2Date
